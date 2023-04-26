@@ -1,0 +1,21 @@
+.blue {
+    color: red;
+    text-align:  center;
+    background-color: black;         
+ }
+ .sorry:hover {
+    color: green;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+ }
+ .big {
+    color: aquamarine;
+    background-color: black;
+    font-size: large;
+    font-weight: 200;
+    font-style: italic;
+    border: 2px solid green;
+    margin-bottom: 2px;
+    text-align:justify;
+ }
