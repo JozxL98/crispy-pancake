@@ -1,6 +1,4 @@
 .blue {
-   margin: 0;
-   padding: 0;
     color: red;
     text-align:  center;
     background-color: black;         
@@ -12,6 +10,8 @@
     text-align: justify;
  }
  .big {
+   margin: 0;
+   padding: 0;
     color: aquamarine;
     background-color: black;
     font-size: large;
