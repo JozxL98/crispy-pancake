@@ -10,8 +10,6 @@
     text-align: justify;
  }
  .big {
-   margin: 0;
-   padding: 0;
     color: aquamarine;
     background-color: black;
     font-size: large;
@@ -20,4 +18,8 @@
     border: 2px solid green;
     margin-bottom: 2px;
     text-align:justify;
+ }
+ body {
+   margin: 0;
+   padding: 0;
  }
