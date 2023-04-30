@@ -6,13 +6,23 @@
  
 .blue {
     color: red;
-    text-align:  center;
-    background-color: black;         
+    text-align: center;
+    background-color: black;
+    width: 500px;
+    margin: 50px;
+    padding: 30px;
  }
- .sorry:hover {
-    color: green;
+ .sorry {
+    color: white;
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    overflow: auto;
+    border: 5px solid blue;
+    width: 300px;
+    background-color:black ;
+    padding: 10px;
+    margin: 10px;
     text-align: justify;
  }
  .big {
@@ -22,9 +32,14 @@
     font-weight: 200;
     font-style: italic;
     border: 2px solid green;
-    margin-bottom: 2px;
+    margin: 2px;
     text-align:center;
     margin: 40px;
     padding: 10px;
+ }
+ #hello {
+   color: blue;
+   font-style: italic;
+   list-style: circle;
  }
  
